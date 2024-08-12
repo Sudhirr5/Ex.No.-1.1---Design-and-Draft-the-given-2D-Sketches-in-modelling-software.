@@ -13,7 +13,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
+1.	Open new file and then select sketch icon.  
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![edm-exp-1_page-0001](https://github.com/user-attachments/assets/64e13c40-2986-4935-98dd-3d1a5664729c)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
